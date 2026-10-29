@@ -1,0 +1,21 @@
+Ensembl 2026_05 bTaeGut7.mat genes: 28197 (15200 protein-coding, 12638 with symbol)
+Ensembl 104 bTaeGut1_v1 genes:      22150 (16619 protein-coding, 13804 with symbol)
+  bTaeGut7 strict (RBBH 1:1) human orthologs: 9956
+  bTaeGut7 strict (RBBH 1:1) mouse orthologs: 9809
+  bTaeGut7 strict (RBBH 1:1) chicken orthologs: 10470
+NCBI RefSeq GCF_048771995.1 (RS_2025_04) genes: 23294
+  Ensembl bTaeGut7 genes matched to an NCBI GeneID by coordinates: 17254 (symbol agrees for 10740)
+  bTaeGut7 genes with a 1:1 human ortholog symbol (consensus): 13330
+  Ensembl vs NCBI symbol conflicts (both named, different): 662
+  bTaeGut1_v1 Compara 104 ortholog_one2one human: 11631 (high-confidence: 11033)
+  bTaeGut1_v1 Compara 116 ortholog_one2one mouse: 11871 (high-confidence: 10120)
+  mouse symbols from NCBI_mouse_gene_annotations_merged_FMcCarthy.tsv; mouse partners still without a symbol: 11
+  DIAMOND reciprocal best protein hits (>=80% id, >=50% cov): 13220
+Crosswalk bTaeGut1_v1 -> bTaeGut7.mat: high=11200, unmapped (non-coding)=5531, unmapped=2934, medium=2392, ambiguous=93
+GO gene-set files (GMT):
+  GO_finch_bTaeGut7_EnsemblID_combined.gmt: 10343 GO sets (5-1000 genes), 15097 genes annotated
+  GO_finch_bTaeGut7_EnsemblID_finchNativeOnly.gmt: 4538 GO sets (5-1000 genes), 14220 genes annotated
+  GO_finch_bTaeGut7_NCBIGeneID_RefSeqGAF.gmt: 4610 GO sets (5-1000 genes), 14996 genes annotated
+  GO_finch_bTaeGut1v1_ENS104_EnsemblID_combined.gmt: 10198 GO sets (5-1000 genes), 15931 genes annotated
+  GO_human_symbol_goa.gmt: 11183 GO sets (5-1000 genes), 19672 genes annotated
+Finch-mouse ortholog files (Compara 116): all one2one = 11871, high-confidence = 10120
