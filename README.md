@@ -11,7 +11,7 @@ The build tool, `scripts/build_reference_sets.py`, combines public Ensembl, NCBI
 
 Use the bTaeGut1_v1 files for data counted against Ensembl 104. Use the bTaeGut7 files for data aligned to the new assembly. `crosswalk_bTaeGut1v1_to_bTaeGut7.tsv` carries gene IDs from old to new.
 
-Developed in the Julie E. Miller Lab, University of Arizona, by Aleco Dominguez, with guidance from Fiona McCarthy on annotation sources and ortholog choice.
+Developed in the Julie E. Miller Lab, University of Arizona, by Aleco Dominguez.
 
 ## Quick start: use the prebuilt files
 
