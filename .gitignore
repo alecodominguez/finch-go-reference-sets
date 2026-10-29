@@ -1,0 +1,5 @@
+reference_sources/*
+!reference_sources/crosswalk_protein_besthits_diamond.tsv
+reference_sets/*.gmt
+.DS_Store
+__pycache__/
